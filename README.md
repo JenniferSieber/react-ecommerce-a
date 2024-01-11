@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+# SCRIMBA REACT PROJECT BOB ZIROLL---will update with my changes. 
+
+Some changes from his project already. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
