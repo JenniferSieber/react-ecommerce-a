@@ -14,7 +14,9 @@ function Card({ coverImg, obj }) {
   
   return (
     <div className="card">
-      {badgeText && <div className="card--badge bold">{badgeText}</div>}
+      {badgeText && 
+        <div className="card--badge bold">{badgeText}</div>
+      }
       <img className="card--img" src={coverImg} alt={obj.title}  />
       <div className="card--stats">
         <img src={star} alt="star-icon" className="card--star" />
